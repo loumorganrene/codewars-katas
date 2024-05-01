@@ -1,4 +1,4 @@
-# Codewars Kata
+# Codewars Katas
 
 ![Codewars Stats](https://github.r2v.ch/codewars?user=loumorganrene&name=true&theme=gradient_dark_by_level)
 
